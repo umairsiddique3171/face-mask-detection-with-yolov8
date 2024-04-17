@@ -2,7 +2,7 @@
 
 This project develops a robust system for detecting face masks using a custom-trained YOLOv8 model. The YOLOv8 object detection architecture, trained on a custom dataset, enables efficient detection of whether individuals are wearing face masks from video footage.
 
-![results](https://github.com/umairsiddique3171/face-mask-detection-with-yolov8/assets/148565997/54383537-0b17-45ad-b815-1cc2f91a4017)
+https://github.com/umairsiddique3171/face-mask-detection-with-yolov8/assets/148565997/d26b0704-8b1e-4bd6-a78b-f9f0881c8ec1
 
 ## Project Structure
 
