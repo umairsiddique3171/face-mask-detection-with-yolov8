@@ -1,0 +1,7 @@
+path: C:\Users\US593\Work\Datasets\Face_Mask_Detection
+train: C:\Users\US593\Work\Datasets\Face_Mask_Detection\images\train
+val: C:\Users\US593\Work\Datasets\Face_Mask_Detection\images\val
+
+names: 
+  0: no_mask 
+  1: mask
